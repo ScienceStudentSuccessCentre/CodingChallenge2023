@@ -8,13 +8,13 @@ The groups with the most points at the end of the night wins! 🏆 And don't wor
 
 ## ✏️ Instructions
 
-In this repo, there are 6 unique challenges for you to tackle! They vary in field and difficulty. You can complete them in any order you want, based on your interest! More instructions are provided with each challenge.
+In this repo, there are 8 unique challenges for you to tackle! They vary in field and difficulty. You can complete them in any order you want, based on your interest! More instructions are provided with each challenge.
 
 **WHEN YOU COMPLETE A CHALLENGE** let us know so that we can record your points! At the end of the night, we will calculate the number of points each student has earned!
 
 Here are the challenges:
 
-| Challenge Name          | Area of Software Development   | Language                       | Number of Points | Author(s)         |
+| Challenge Name          | Technical Area                 | Language                       | Number of Points | Author(s)         |
 |-------------------------|--------------------------------|--------------------------------|------------------|-------------------|
 | Come up with a Team Name  | Creativity                   | English                        | 50               | You               |
 |                           |                              | Python                         | 100              | Rhishita, Sebastian |
@@ -47,13 +47,17 @@ If you need help with anything, please ask an SSSC mentor!
 
 
 ## 💰 Prizes
-This year, the 3 students with the most number of points will each receive:
-<!--
-| 🤯 $50 Campus Card Money!!! 🤯 |
+This year, members of the top three teams with the most number of points will each receive:
+
+| **🥇 First place**: $20 Campus Card Dollars |
 | --- |
 
-In addition, we will be holding a raffle, for another chance to win the prize!
+| **🥈 Second place**: SSSC Scarves |
+| --- |
 
-You can spend it at many places [on-campus or around the city](https://carleton.ca/campuscard/using-campus-card/)!
--->
+| **🥉 Third place**: SSSC Memory Keys |
+| --- |
+
+In addition, we will be holding a raffle, for another chance to win an SSSC Prize Package (scarf, memory key, & pen)! 🤯
+
 Have fun, and good luck! 🍀
