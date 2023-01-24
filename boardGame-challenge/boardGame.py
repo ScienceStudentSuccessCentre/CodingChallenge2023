@@ -15,7 +15,7 @@ pygame.init()
 
  
 
-#HINT: SET GAMEBAORD DIRECTIONS 
+#HINT: SET GAMEBAORD DIMENSIONS 
 # your code goes here
 w = 
 h = 
