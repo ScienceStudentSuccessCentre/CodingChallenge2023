@@ -19,7 +19,7 @@ Here are the challenges:
 | Come up with a Team Name  | Creativity                   | English                        | 50               | You               |
 |                           |                              | Python                         | 100              | Rhishita, Sebastian |
 |                           |                              | Python                         | 100              | Michael           |
-| [Bad code](debugging-challenge)                          | Debugging                           | Java                           | 100              | Rose, Omar        |
+| [Bad code](debugging_challenge)                          | Debugging                           | Java                           | 100              | Rose, Omar        |
 |                           |                              | Java                           | 150              | Fabrice, Fahim    |
 |                           |                              | Java                           | 150              | Jordon, Andrew    |
 |                           |                              | Python                         | 300              | Tiffany, Fatima   |
