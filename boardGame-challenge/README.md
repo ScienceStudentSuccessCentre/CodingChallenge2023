@@ -11,7 +11,7 @@ of the board first wins, and the program stops.
 
 **You should only be coding in the [boardGame.py](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/boardGame-challenge/boardGame.py) file
 
-**Look at the boardGameSample.png file to get an idea of how the board should look like
+**Look at the [boardGameSample.png](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/boardGame-challenge/boardGameSample.png) file to get an idea of how the board should look like
 
 **NOTE: any imports you may need is already in the 'base code,' make sure to follow the hints
 and guidlines that are given throughout the file
