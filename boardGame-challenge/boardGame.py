@@ -59,7 +59,7 @@ player1 = pygame.draw.rect(window, red, (40,18,18,18))
 print("Player 1 is a rectangle")
 (p1_x,p1_y) = (40,18)
 
-#set your players initial positions based on your baord dim and shapes! 
+#set your players initial positions based on your board dim and shapes! 
 player2 = pygame.draw.circle(window, green, (48,55),12)
 print("player 2 is a circle")
 (p2_x,p2_y) = (48,55)
