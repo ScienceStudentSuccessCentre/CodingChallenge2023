@@ -14,8 +14,18 @@ In this repo, there are 6 unique challenges for you to tackle! They vary in fiel
 
 Here are the challenges:
 
-| Challenge Name          | Area of Software Development   | Programming Language           | Number of Points | Author(s)         |
+| Challenge Name          | Area of Software Development   | Language                       | Number of Points | Author(s)         |
 |-------------------------|--------------------------------|--------------------------------|------------------|-------------------|
+| Come up with a Team Name  | Creativity                   | English                        | 50               | You               |
+|                           |                              | Python                         | 100              | Rhishita, Sebastian |
+|                           |                              | Python                         | 100              | Michael           |
+|                           |                              | Java                           | 100              | Rose, Omar        |
+|                           |                              | Java                           | 150              | Fabrice, Fahim    |
+|                           |                              | Java                           | 150              | Jordon, Andrew    |
+|                           |                              | Python                         | 300              | Tiffany, Fatima   |
+|                           |                              | HTML, JavaScript (recommended) | 400              | Raef, David       |
+
+
 <!--
 | [Fibonacci](Fibonacci.py)               | Algorithms and Data Structures | Any                            | 100              | Jake              |
 | [Matching Brackets](matching_brackets.py)       | Algorithms and Data Structures | Any                            | 200              | Gordon, Callum    |
