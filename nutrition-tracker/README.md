@@ -1,4 +1,6 @@
-# Frontend web dev challenge: Nutrition tracker
+# What'd I eat for breakfast?
+
+Welcome to this frontend web dev challenge. After completing this, you'll never forget what you had for breakfast again!!
 
 **Task:** build the webpage of a nutrition tracker tool 🥘⚒️
 
