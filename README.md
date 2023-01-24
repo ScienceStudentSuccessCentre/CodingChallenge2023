@@ -23,7 +23,7 @@ Here are the challenges:
 |                           |                              | Java                           | 150              | Fabrice, Fahim    |
 |                           |                              | Java                           | 150              | Jordon, Andrew    |
 |                           |                              | Python                         | 300              | Tiffany, Fatima   |
-|                           |                              | HTML, JavaScript (recommended) | 400              | Raef, David       |
+| [What'd I eat for breakfast?](food-challenge) | Frontend Web Development     | HTML, JavaScript (recommended) | 400              | Raef, David       |
 
 
 <!--
