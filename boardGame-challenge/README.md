@@ -9,7 +9,9 @@ gets, determines the number of tiles they get to move forward. After that, the s
 and player 1 and player 2 keeps alternating on taking turns. The player that reaches the last tile
 of the board first wins, and the program stops.
 
-NOTE: any imports you may need is already in the 'base code,' make sure to follow the hints
+**Look at the boardGameSample.png file to get an idea of how the board should look like
+
+**NOTE: any imports you may need is already in the 'base code,' make sure to follow the hints
 and guidlines that are given throughout the file
 
 Distribution of points:
