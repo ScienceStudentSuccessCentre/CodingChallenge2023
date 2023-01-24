@@ -27,9 +27,10 @@ Here are the challenges:
 
 ## ⬇️ Downloading the Challenges
 
-1. Open Git Bash (if you don't know what this is, ask an SSSC mentor)
+1. Open a terminal/command prompt on your computer
 2. Navigate into the directory you want to work in using `cd <name-of-directory>`
 3. Run `git clone https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023.git`
+    - If you don't have git, [install it](https://git-scm.com/download)
 4. Open the new `CodingChallenge2023` folder with your favourite code editor
 
 If you need help with anything, please ask an SSSC mentor!
