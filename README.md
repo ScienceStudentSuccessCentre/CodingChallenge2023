@@ -17,12 +17,12 @@ Here are the challenges:
 | Challenge Name          | Technical Area                 | Language                       | Number of Points | Author(s)         |
 |-------------------------|--------------------------------|--------------------------------|------------------|-------------------|
 | Come up with a Team Name  | Creativity                   | English                        | 50               | You               |
-|                           |                              | Python                         | 100              | Rhishita, Sebastian |
+| [Fun Carnival Mirror Challenge](funCarnivalMirror-challenge)    |    OpenCV                   | Python                         | 100              | Rhishita, Sebastian |
 | [Synapse Syntax Solver Challenge 🧠](SynapseSyntaxSolverChallenge) | Basic Data Structures                             | Python                         | 100              | Michael           |
 | [Bad code](debugging_challenge)                          | Debugging                           | Java                           | 100              | Rose, Omar        |
 |     [Fifa Tournament](Fifa%20Tournament)                |  Algorithm                             | Java                           | 150              | Fabrice, Fahim    |
 | [Array Stats](Array%20Stats) | Basic Data Structures and Algorithms|  Java and Python     | C1:150              | Jordon, Andrew  |
-|                           |                              | Python                         | 300              | Tiffany, Fatima   |
+| [Shape Race challenge](shapeRace-challenge)       |       Pygame              | Python                         | 300              | Tiffany, Fatima   |
 | [What'd I eat for breakfast?](nutrition-tracker) | Frontend Web Development     | HTML, JavaScript (recommended) | 400              | Raef, David       |
 
 
