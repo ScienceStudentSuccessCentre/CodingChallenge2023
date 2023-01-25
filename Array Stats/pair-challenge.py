@@ -7,7 +7,6 @@ def getPairsSum100():
 
     numbers = data[:] # copy the data into a variable so original is not modified
 
-    # for the challenge, everything below should be removed. this is a sample solution used for evaluating answers
 
   
 
