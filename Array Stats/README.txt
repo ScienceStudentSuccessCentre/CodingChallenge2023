@@ -3,7 +3,7 @@ Challenge 1: MadStats.java
 	Hints: ask reps for hints if needed.
 
 	Description of each sub-challenge: 
-		- There are functions max(),min(), mostCommon(), leastCommon(), mostCommon(), mean() read the commment above each function to understand their purpose.
+		- There are functions max(),min(), mostCommon(), leastCommon(), mostCommon(), mean(). Read the commment above each function to understand their purpose.
 		- It will be useful to notice the comments regarding the row numbering of the 2D array in the main() function.
 	       
 			   
