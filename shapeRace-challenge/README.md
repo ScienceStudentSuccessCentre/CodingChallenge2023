@@ -1,6 +1,6 @@
 INSTRUCTIONS
 
-First run the [testing.py](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/boardGame-challenge/testing.py) file, this is just to ensure pygame works on your device, you
+First run the [testing.py](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/shapeRace-challenge/testing.py) file, this is just to ensure pygame works on your device, you
 should just see a blank white window pop up on your screen.
 
 You may need to install pygame to your device if it does not work, click [here](https://www.pygame.org/wiki/GettingStarted) 
@@ -12,9 +12,9 @@ gets, determines the number of tiles they get to move forward. After that, the s
 and player 1 and player 2 keeps alternating on taking turns. The player that reaches the last tile
 of the board first wins, and the program stops.
 
-**You should only be coding in the [boardGame.py](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/boardGame-challenge/boardGame.py) file
+**You should only be coding in the [boardGame.py](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/shapeRace-challenge/boardGame.py) file
 
-**Look at the [boardGameSample.png](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/boardGame-challenge/boardGameSample.png) file to get an idea of how the board should look like
+**Look at the [boardGameSample.png](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/shapeRace-challenge/boardGameSample.png) file to get an idea of how the board should look like
 
 **NOTE: any imports you may need is already in the 'base code,' make sure to follow the hints
 and guidlines that are given throughout the file
