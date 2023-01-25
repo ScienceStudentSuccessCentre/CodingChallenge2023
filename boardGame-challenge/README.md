@@ -24,7 +24,9 @@ Distribution of points:
 - max points earned 300
 
 10 pts for numbering each tile
+
 10 pts for creating the checkered board
+
 10 pts for terminating the program once one of the players reaches the end of the board (the last tile)
 
 135 pts for moving player 1 across the board
