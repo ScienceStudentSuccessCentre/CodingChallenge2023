@@ -20,7 +20,7 @@ Here are the challenges:
 |                           |                              | Python                         | 100              | Rhishita, Sebastian |
 |                           |                              | Python                         | 100              | Michael           |
 | [Bad code](debugging_challenge)                          | Debugging                           | Java                           | 100              | Rose, Omar        |
-|     ([Fifa\ Tournament](Fifa%20Tournament)                |  Algorithm                             | Java                           | 150              | Fabrice, Fahim    |
+|     [FifaTournament](Fifa%20Tournament)                |  Algorithm                             | Java                           | 150              | Fabrice, Fahim    |
 |                           |                              | Java                           | 150              | Jordon, Andrew    |
 |                           |                              | Python                         | 300              | Tiffany, Fatima   |
 | [What'd I eat for breakfast?](nutrition-tracker) | Frontend Web Development     | HTML, JavaScript (recommended) | 400              | Raef, David       |
