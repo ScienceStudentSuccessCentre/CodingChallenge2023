@@ -18,7 +18,7 @@ Here are the challenges:
 |-------------------------|--------------------------------|--------------------------------|------------------|-------------------|
 | Come up with a Team Name  | Creativity                   | English                        | 50               | You               |
 |                           |                              | Python                         | 100              | Rhishita, Sebastian |
-|                           |                              | Python                         | 100              | Michael           |
+| [Synapse Syntax Solver Challenge 🧠](SynapseSyntaxSolverChallenge) | Python                             | Python                         | 100              | Michael           |
 | [Bad code](debugging_challenge)                          | Debugging                           | Java                           | 100              | Rose, Omar        |
 |     [Fifa Tournament](Fifa%20Tournament)                |  Algorithm                             | Java                           | 150              | Fabrice, Fahim    |
 | [Array Stats](Array%20Stats) | Basic Data Structures and Algorithms|  Java and Python     | C1:150              | Jordon, Andrew  |
