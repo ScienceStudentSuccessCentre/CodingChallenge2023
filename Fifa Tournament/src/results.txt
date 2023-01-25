@@ -1,0 +1,64 @@
+Lionel Messi, 48
+Cristiano Ronaldo, 86
+Neymar Jr., 71
+Kylian Mbappe, 7
+Robert Lewandowski, 91
+Jan Oblak, 49
+Mohamed Salah, 87
+Sergio Aguero, 55
+Luka Modric, 73
+Paulo Dybala, 38
+Alisson Becker, 31
+Raheem Sterling, 42
+Kalidou Koulibaly, 1
+Bernardo Silva, 3
+Frenkie de Jong, 21
+Trent Arnold, 36
+Joshua Kimmich, 73
+Jan Vertonghen, 6
+Hugo Lloris, 23
+Son Heung-min, 48
+Pierre Aubameyang, 33
+Riyad Mahrez, 86
+Bernardo Silva, 94
+Kyle Walker, 84
+Kevin De Bruyne, 98
+David Silva, 76
+Ilkay Gundogan, 60
+Ferran Torres, 48
+Phil Foden, 6
+Gabriel Jesus, 64
+Riyad Mahrez, 73
+Joao Cancelo, 83
+John Stones, 53
+Nicolas Otamendi, 26
+Ruben Dias, 62
+Kyle Walker-Peters, 75
+Eric Garcia, 40
+Angelino, 87
+Benjamin Mendy, 73
+Oleksandr Zinchenko, 0
+Aymeric Laporte, 21
+Fernandinho, 73
+Rodrigo, 58
+Kevin De Bruyne, 89
+Paul Pogba, 51
+Kai Havertz, 66
+Virgil van Dijk, 69
+Erling Haaland, 12
+Harry Kane, 63
+Lautaro Martinez, 21
+Phil Foden, 82
+Houssem Aouar, 100
+Donny van de Beek, 44
+Mason Mount, 9
+Ferran Torres, 3
+Reece James, 46
+Ben Chilwell, 10
+N'Golo Kante, 7
+Jadon Sancho, 32
+Declan Rice, 66
+Mateo Kovacic, 11
+Thiago Alcantara, 68
+Timo Werner, 43
+Tammy Abraham, 61
