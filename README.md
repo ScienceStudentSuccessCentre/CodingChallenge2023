@@ -10,7 +10,7 @@ The groups with the most points at the end of the night wins! 🏆 And don't wor
 
 In this repo, there are 8 unique challenges for you to tackle! They vary in field and difficulty. You can complete them in any order you want, based on your interest! More instructions are provided with each challenge.
 
-**WHEN YOU COMPLETE A CHALLENGE** let us know so that we can record your points! At the end of the night, we will calculate the number of points each student has earned!
+**WHEN YOU COMPLETE A CHALLENGE** let us know so that we can record your points! At the end of the night, we will calculate the number of points each student has earned! SSSC mentors will be wearing **"Ask Me"** pins during the event.
 
 Here are the challenges:
 
@@ -37,13 +37,21 @@ Here are the challenges:
 
 ## ⬇️ Downloading the Challenges
 
+You can download the challenges as a zip file from the GitHub page. 
+ 
+1. At the top of this GitHub page, click the green button labelled `<> code`. A menu will appear.
+2. In that menu, click the option that says `Download as Zip`.
+3. Open the new `CodingChallenge2023` folder with your favourite code editor
+
+Optionally, you could also follow these steps to clone the repository to your computer. 
+
 1. Open a terminal/command prompt on your computer
 2. Navigate into the directory you want to work in using `cd <name-of-directory>`
 3. Run `git clone https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023.git`
-    - If you don't have git, [install it](https://git-scm.com/download)
+    - If you don't have Git, [install it](https://git-scm.com/download)
 4. Open the new `CodingChallenge2023` folder with your favourite code editor
 
-If you need help with anything, please ask an SSSC mentor!
+If you need help with anything, please ask an SSSC mentor (the people wearing "Ask Me" pins)!
 
 
 ## 💰 Prizes
