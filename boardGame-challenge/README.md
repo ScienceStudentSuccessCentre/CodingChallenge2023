@@ -1,7 +1,10 @@
 INSTRUCTIONS
 
-First run the testing.py file, this is just to ensure pygame works on your device, you
+First run the [testing.py](https://github.com/ScienceStudentSuccessCentre/CodingChallenge2023/blob/main/boardGame-challenge/testing.py) file, this is just to ensure pygame works on your device, you
 should just see a blank white window pop up on your screen.
+
+You may need to install pygame to your device if it does not work, click [here](https://www.pygame.org/wiki/GettingStarted) 
+for the installation process
 
 There are 2 players (as shapes) on a numbered, checkered board. Each player moves according to 
 a randomly generated number by the randInt function, based on the number the specific player
