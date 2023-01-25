@@ -21,7 +21,7 @@ Here are the challenges:
 | [Synapse Syntax Solver Challenge 🧠](SynapseSyntaxSolverChallenge) | Basic Data Structures                             | Python                         | 100              | Michael           |
 | [Bad code](debugging_challenge)                          | Debugging                           | Java                           | 100              | Rose, Omar        |
 |     [Fifa Tournament](Fifa%20Tournament)                |  Algorithm                             | Java                           | 150              | Fabrice, Fahim    |
-| [Array Stats](Array%20Stats) | Basic Data Structures and Algorithms|  Java and Python     | C1:150              | Jordon, Andrew  |
+| [Array Stats](Array%20Stats) | Basic Data Structures and Algorithms|  Java and Python     | 150              | Jordon  |
 | [Shape Race challenge](shapeRace-challenge)       |       Pygame              | Python                         | 300              | Tiffany, Fatima   |
 | [What'd I eat for breakfast?](nutrition-tracker) | Frontend Web Development     | HTML, JavaScript (recommended) | 400              | Raef, David       |
 
